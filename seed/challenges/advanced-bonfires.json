@@ -181,8 +181,14 @@
       "descriptionFr": [],
       "nameRu": "",
       "descriptionRu": [],
-      "nameEs": "",
-      "descriptionEs": [],
+      "nameEs": "Cambio Exacto",
+      "descriptionEs": [
+			  "Diseña una función \"drawer\" de caja registradora que acepte el precio de compra como primer argumento, el pago como el segundo argumento, y el dinero-en-caja (dec) que hay como el tercer argumento.",
+        "dec es un arreglo 2d que lista el tipo de dinero disponible.",
+        "Devuelve la cadena \"Insufficient Funds\" si el dinero-en-caja es menor que el cambio que se debe dar. Devuelve la cadena \"Closed\" si el dinero-en-caja es igual al cambio que se debe dar.",
+        "De otra manera, devuelve el cambio en monedas y billetes, ordenado de mayor a menor.",
+        "Recuerda usar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Lee-Busca-Pregunta</a> si estas atascado. Intenta programación en parejas. Escribe tu propio código."
+			],
       "namePt": "",
       "descriptionPt": []
     },
@@ -238,8 +244,11 @@
       "descriptionFr": [],
       "nameRu": "",
       "descriptionRu": [],
-      "nameEs": "",
-      "descriptionEs": [],
+      "nameEs": "Actualización de Inventario",
+      "descriptionEs": [
+			  "Compara y actualiza el inventario almacenado en un arreglo 2d contra un segundo arreglo de una entrega reciente. Actualiza la cantidad actual del producto en el inventario, y si un producto no puede ser encontrado, agrega el nuevo item y la cantidad al arreglo de inventario en orden alfabetico.",
+        "Recuerda usar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Lee-Busca-Pregunta</a> si estas atascado. Intenta programación en parejas. Escribe tu propio código."
+			],
       "namePt": "",
       "descriptionPt": []
     },
