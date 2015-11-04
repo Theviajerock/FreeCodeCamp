@@ -30,7 +30,7 @@
     "async": "~0.9.0",
     "babel": "5.8.23",
     "babel-core": "5.8.23",
-    "babel-eslint": "4.1.1",
+    "babel-eslint": "4.1.4",
     "babel-loader": "5.2.2",
     "bcrypt-nodejs": "~0.0.3",
     "body-parser": "^1.13.2",
