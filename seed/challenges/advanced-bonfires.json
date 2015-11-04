@@ -68,8 +68,20 @@
       "descriptionFr": [],
       "nameRu": "",
       "descriptionRu": [],
-      "nameEs": "",
-      "descriptionEs": [],
+      "nameEs": "Valida numeros de telefono de  EEUU",
+      "descriptionEs": [
+			
+        "Devuelve true si la cadena de texto especificada es un numero valido de EEUU",
+        "El usuario podra llenar el campo del formulario de cualquier manera que elija mientras que sea un numero valido de EEUU. Los siguientes son formatos validos para numeros de EEUU",
+        "<code>555-555-5555</code>",
+        "<code>(555)555-5555</code>",
+        "<code>(555) 555-5555</code>",
+        "<code>555 555 5555</code>",
+        "<code>5555555555</code>",
+        "<code>1 555 555 5555</code>",
+        "Para este reto te seran presentadas cadenas tales como <code>800-692-7753</code> ó <code>8oo-six427676;laskdjf</code>. Tu trabajo es validar o rechazar el numero de EEUU basado en cualquier combinación de los formatos presentados arriba. El codigo de area es requerido. Si el codigo del pais es proporcionado, debes confirmar que el codigo del pais es <code>1</code>. Devuelve true si la cadena es un numero de EEUU valido; de lo contrario devuelve false.",
+        "Recuerda usar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Read-Search-Ask</a> si estas atascado. Intenta programación en parejas. Escribe tu propio codigo."
+			],
       "namePt": "",
       "descriptionPt": []
     },
