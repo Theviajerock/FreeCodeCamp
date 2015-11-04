@@ -68,19 +68,19 @@
       "descriptionFr": [],
       "nameRu": "",
       "descriptionRu": [],
-      "nameEs": "Valida numeros de telefono de  USA",
+      "nameEs": "Valida números de teléfono de USA",
       "descriptionEs": [
 			
         "Devuelve true si la cadena de texto especificada es un numero valido de USA",
-        "El usuario podra llenar el campo del formulario de cualquier manera que elija mientras que sea un numero valido de USA. Los siguientes son formatos validos para numeros de USA",
+        "El usuario podrá llenar el campo del formulario de cualquier manera que elija mientras que sea un numero valido de USA. Los siguientes son formatos validos para números de USA",
         "<code>555-555-5555</code>",
         "<code>(555)555-5555</code>",
         "<code>(555) 555-5555</code>",
         "<code>555 555 5555</code>",
         "<code>5555555555</code>",
         "<code>1 555 555 5555</code>",
-        "Para este reto te seran presentadas cadenas tales como <code>800-692-7753</code> ó <code>8oo-six427676;laskdjf</code>. Tu trabajo es validar o rechazar el numero de USA basado en cualquier combinación de los formatos presentados arriba. El codigo de area es requerido. Si el codigo del pais es proporcionado, debes confirmar que el codigo del pais es <code>1</code>. Devuelve true si la cadena es un numero de USA valido; de lo contrario devuelve false.",
-        "Recuerda usar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Read-Search-Ask</a> si estas atascado. Intenta programación en parejas. Escribe tu propio codigo."
+        "Para este reto te serán presentadas cadenas tales como <code>800-692-7753</code> ó <code>8oo-six427676;laskdjf</code>. Tu trabajo es validar o rechazar el numero de USA basado en cualquier combinación de los formatos presentados arriba. El código de área es requerido. Si el código del país es proporcionado, debes confirmar que el código del país es <code>1</code>. Devuelve true si la cadena es un numero de USA valido; de lo contrario devuelve false.",
+        "Recuerda usar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Read-Search-Ask</a> si estas atascado. Intenta programación en parejas. Escribe tu propio código."
 			],
       "namePt": "",
       "descriptionPt": []
